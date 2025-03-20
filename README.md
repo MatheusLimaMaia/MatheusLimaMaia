@@ -1,7 +1,7 @@
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/water_fire_0808/)[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-lima-maia/)
 <h2 align="center">Estudante de Ciência da Computação</h3>
 
 ### Olá, Eu sou Matheus! 👋 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/water_fire_0808/)[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-lima-maia/)
 
 - 🌱 Atualmente estou aprendendo **C++ e JavaScript**
 
